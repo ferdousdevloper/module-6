@@ -1,0 +1,390 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*font styles*/
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+/*common button style*/
+/*========================================*/
+.btn {
+
+    color: #fff8f3;
+    padding: 20px 43px;
+    border: 0;
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 20px;
+}
+
+/*========================================*/
+/*common button style*/
+/*========================================*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*Heading Section-start*/
+/*========================================*/
+.navbar {}
+
+.head {
+
+    background-color: #fff8f3;
+    display: flex;
+    position: relative;
+
+
+
+}
+
+.title-description {
+
+    position: absolute;
+    top: 197px;
+    margin-right: 972px;
+    margin-left: 240px;
+    margin-bottom: 147px;
+
+}
+
+.h-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+
+
+}
+
+.paragraph {
+    margin: 32px 171px 32px 0;
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.cover-img {
+    display: flex;
+    position: relative;
+    margin: 50px 240px 0 1045px;
+}
+
+/*========================================*/
+/*Heading Section-End*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*========================================*/
+/*Main-1 Section Start*/
+/*========================================*/
+.main1 {}
+
+.section1 {
+    display: flex;
+    margin: 178px 663px 48px 663px;
+    text-align: center;
+
+}
+
+.title2 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.paragraph2 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin-top: 24px;
+}
+
+.section2 {
+    display: flex;
+    margin: 48px 240px 0 240px;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.img1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+}
+
+.img2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+}
+
+.img3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+}
+
+.paragraphn2 {
+    display: flex;
+    text-align: center;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    justify-content: space-between;
+    margin: 32px 390px;
+    text-decoration: underline;
+}
+
+
+.step3 {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+    height: 320px;
+    margin: 128px 240px;
+    align-items: center;
+
+
+}
+
+.step3-img {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 86px 232px 47px 232px;
+}
+
+.paragaraph2 {
+    display: flex;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    font-weight: 600;
+    justify-content: space-around;
+    margin-left: 175px;
+    margin-right: 250px;
+}
+
+/*========================================*/
+/*Main-1 Section End*/
+/*========================================*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*========================================*/
+/*Main-2 Section Start*/
+/*========================================*/
+.main2 {
+    display: flex;
+    width: 1922px;
+    height: 620px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 620px;
+}
+
+.main2-description {
+    position: relative;
+    margin: 230px 186px 162px 395px;
+    width: 594px;
+}
+
+.main2-title1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.color-off {
+    color: #E55473;
+}
+
+.main2-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 33px;
+
+}
+
+.m2-btn {
+    margin-left: 210px;
+}
+
+.main2-img {
+    width: 318px;
+    height: 420px;
+    margin-top: 100px;
+}
+
+/*========================================*/
+/*Main-2 Section End*/
+/*========================================*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*========================================*/
+/*instagram-1  section Start*/
+/*========================================*/
+
+.instaggram1 {
+    display: flex;
+
+}
+
+.instaggram1-description {
+    text-align: center;
+    align-items: center;
+    margin: 128px 663px 48px 663px;
+
+}
+
+.instaggram1-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.instagram-paragraph {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.instagram-img {
+    display: flex;
+    width: 342px;
+    height: 396px;
+    align-items: center;
+    margin: 0px 240px 0 240px;
+    gap: 24px;
+}
+
+/*========================================*/
+/*instagram-1 End*/
+/*========================================*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*========================================*/
+/*instagram-2  section Start*/
+/*========================================*/
+.instagram2 {
+    background-image: url(/Flower-Asset/Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    margin: 128px 240px 128px 242px;
+}
+
+.instagram2-description {
+    text-align: center;
+    padding-top: 122px;
+
+}
+
+.instagram2-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.instagram2-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.from {
+    display: flex;
+    margin: 48px 287px 121px 287px;
+    justify-content: space-around;
+    gap: 16px;
+}
+
+.insta-email {
+    width: 700px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #FFF;
+    padding-left: 10px;
+}
+
+/*========================================*/
+/*instagram-1 End*/
+/*========================================*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*========================================*/
+/*Footer  section Start*/
+/*========================================*/
+
+.footer {
+    background-color: #111010;
+    text-align: center;
+    padding: 128px 649px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.span-shop {
+    color: #FFF;
+    ;
+}
+
+.footer-p1 {
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 24px;
+}
+
+.footer-p2 {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 32px;
+}
+
+/*========================================*/
+/*Footer Section End*/
+/*========================================*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+
+/*-------------------------------F_I_N_I_S_H_E_D---------------------------*/
